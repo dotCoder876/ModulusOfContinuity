@@ -1,0 +1,12 @@
+{
+  "name": "blockly-turtle-field-demo",
+  "version": "0.0.0",
+  "private": true,
+  "blocklyDemoConfig": {
+    "title": "Lambda calculus - System T - Modulus of continuity",
+    "files": [
+      "index.html",
+      "blocks.js"
+    ]
+  }
+}
